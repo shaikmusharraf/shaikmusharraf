@@ -1,7 +1,7 @@
 -  Hi, I’m Musharraf
-- I'm a certified AWS Cloud Practitioner
+-  I'm a dotnet core backend developer and a certified AWS Cloud Practitioner
 -  I’m interested in coding
--  I’m currently learning Angular
+-  I’m currently learning React
   
 <!---
 shaikmusharraf/shaikmusharraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
